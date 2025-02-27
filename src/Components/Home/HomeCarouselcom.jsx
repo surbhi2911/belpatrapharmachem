@@ -20,7 +20,7 @@ const slidesData = [
     {
         headlineFirstLine: "BlePatra3",
         headlineSecondLine: "Change3",
-        sublineFirstLine: "Τίποτα καινούργιο κάτω από",
+        sublineFirstLine: "Τίποτα καινούργιο κτω από",
         sublineSecondLine: "τον ήλιο",
         bgImg: require('../../Assets/Images/img3.jpg'),
         rectImg: require('../../Assets/Images/home-version-three-revenue-traffiic-icon1.png')
